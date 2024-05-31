@@ -1,3 +1,3 @@
-# Editor-Mapa-Yurots
-Editor Mapa Yurots
-RME feito para editar mapas nastelrius, então sua base pouco diferente dos outros, sendo muitas vezes bugada quando tentamos fazer alterações maiores, ele não consegue fazer grande numero de boras e também não acesso a elas, muitos itens não estão cadastrado ainda.
+# Editor de Mapas Yurots
+
+O Editor de Mapas Yurots (RME) foi desenvolvido para editar mapas Nastelrius. Sua base é um pouco diferente dos outros editores, o que pode resultar em bugs ao tentar fazer alterações maiores. Ele não consegue lidar com um grande número de bordas e também não tem acesso a elas. Além disso, muitos itens ainda não estão cadastrados.
