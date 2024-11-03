@@ -2,7 +2,7 @@
 
 Editor de Mapas Yurots (RME): Ferramenta para Editar Mapas Tibinha
 
-O Editor de Mapas Yurots (RME) foi desenvolvido especificamente para editar mapas Tibinha, e não Nastelrius. Embora sua base seja um pouco diferente dos outros editores, o que pode causar alguns bugs ao tentar fazer alterações maiores, ele ainda é uma ferramenta valiosa para quem deseja trabalhar com mapas Tibinha.
+O Editor de Mapas Yurots (RME) foi desenvolvido especificamente para editar mapas Tibinha. Embora sua base seja um pouco diferente dos outros editores, o que pode causar alguns bugs ao tentar fazer alterações maiores, ele ainda é uma ferramenta valiosa para quem deseja trabalhar com mapas Tibinha.
 
 Uma das limitações do RME é que ele não consegue lidar com um grande número de bordas e também não tem acesso a elas. Além disso, muitos itens ainda não estão cadastrados, o que pode ser um desafio para os usuários que precisam de uma gama completa de recursos para suas edições.
 
